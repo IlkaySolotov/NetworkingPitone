@@ -1,5 +1,5 @@
 # RequestSpoofer
-Spoofs src/dst address for udp requests
+networking stuff with Pitone programming lang (Python)
 
 **_Modules_**
 
